@@ -1,0 +1,19 @@
+header h1 {
+  color: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+  background-image: url(../imagenes/fondo.jpg);
+}
+header h2 {
+  color: red;
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  background-color: aqua;
+  padding: 5px;
+}
+
+/*# sourceMappingURL=cartelera.css.map */

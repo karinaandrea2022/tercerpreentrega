@@ -1,0 +1,26 @@
+@import "variables";
+header{
+    h1{
+        color: $colortextoencabezado;
+        font-family: $fuente;
+        font-size: $tamaniofuente;
+        padding: 5%;
+        display: flex;
+        justify-content: center;
+        background-image: url(../imagenes/fondo.jpg);
+    }
+    h2{
+        color: $colortextoencabezado;
+        font-size: $tamaniofuente;
+        font-family: $fuente;
+        text-align: center;
+        background-color: aqua;
+        padding: 5px;
+    }
+
+  }
+      
+  
+  
+
+

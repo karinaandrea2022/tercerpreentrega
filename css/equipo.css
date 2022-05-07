@@ -1,0 +1,19 @@
+header h1 {
+  color: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+  background-image: url(../imagenes/fondo.jpg);
+}
+
+.container {
+  padding: 2%;
+}
+
+.card-text {
+  color: red;
+}
+
+/*# sourceMappingURL=equipo.css.map */

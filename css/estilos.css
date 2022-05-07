@@ -1,0 +1,19 @@
+header img {
+  width: 1200px;
+  height: 440px;
+  display: flex;
+  justify-content: center;
+}
+header p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  color: red;
+  display: flex;
+  justify-content: center;
+}
+
+main img {
+  padding: 5%;
+}
+
+/*# sourceMappingURL=estilos.css.map */

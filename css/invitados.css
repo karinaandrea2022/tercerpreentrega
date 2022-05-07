@@ -1,0 +1,28 @@
+header h1 {
+  color: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+  background-image: url(../imagenes/fondo.jpg);
+}
+
+p {
+  font: size 18px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+
+.container .contenido .carousel-item {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  height: auto;
+  padding: 5px;
+}
+
+/*# sourceMappingURL=invitados.css.map */
